@@ -1,0 +1,23 @@
+{
+  "name": "ether",
+  "version": "5.6.2",
+  "description": "ether goes here",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "norepo"
+  },
+  "keywords": [
+    "et"
+  ],
+  "author": "ether mondol",
+  "license": "MIT",
+  "dependencies": {
+    "claudia-bot-builder": "^4.0.0",
+    "huh": "^2.0.1",
+    "natural": "^0.5.6"
+  }
+}
